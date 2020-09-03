@@ -1,0 +1,11 @@
+{
+  'branches':
+    [
+      'master',
+      'next',
+      { name: 'beta', prerelease: true },
+      { name: 'alpha', prerelease: true },
+    ],
+  'ci': false,
+}
+# 'dry-run': true,
