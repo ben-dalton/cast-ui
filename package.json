@@ -1,6 +1,6 @@
 {
   "name": "@ben-dalton/cast-ui",
-  "version": "1.5.21",
+  "version": "0.0.0-development",
   "author": "ben-dalton",
   "description": "React component library for the TKXS design system",
   "license": "MIT",
@@ -19,7 +19,8 @@
     "prettier": "pretty-quick --staged",
     "pre-commit": "npm run lint:fix && npm run prettier",
     "deploy-storybook": "storybook-to-ghpages --ci",
-    "build-and-publish": "npm run build && npm publish"
+    "build-and-publish": "npm run build && npm publish",
+    "semantic-release": "semantic-release"
   },
   "files": [
     "lib-umd/*",
