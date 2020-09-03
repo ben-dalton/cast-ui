@@ -1,9 +1,9 @@
 {
   'branches':
     [
-      'master',
+      'env/production',
       'next',
-      { name: 'beta', prerelease: true },
+      { name: 'master', prerelease: true },
       { name: 'alpha', prerelease: true },
     ],
   'ci': false,
