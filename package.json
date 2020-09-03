@@ -1,7 +1,7 @@
 {
-  "name": "@tkxs/cast-ui",
+  "name": "@ben-dalton/cast-ui",
   "version": "1.5.21",
-  "author": "tkxs",
+  "author": "ben-dalton",
   "description": "React component library for the TKXS design system",
   "license": "MIT",
   "repository": {
