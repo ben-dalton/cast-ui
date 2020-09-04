@@ -55,7 +55,7 @@ export const Alert: React.FunctionComponent<Props> = ({
   ...props
 }) => (
   <ThemeProvider theme={(outerTheme: any) => outerTheme || theme}>
-    <SAlert {...props}>{children}</SAlert>
+    <SAlert {...props}>Alert: {children}</SAlert>
   </ThemeProvider>
 );
 
