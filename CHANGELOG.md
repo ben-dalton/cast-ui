@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/ben-dalton/cast-ui/compare/v2.0.2...v2.0.3) (2020-09-04)
+
+
+### Bug Fixes
+
+* **changelog:** changelog ([921ede2](https://github.com/ben-dalton/cast-ui/commit/921ede298ca5ed2fdff3899c56c00330ce149136))
+
 # Changelog
 
 ## 1.5.21 (2020-06-02)
