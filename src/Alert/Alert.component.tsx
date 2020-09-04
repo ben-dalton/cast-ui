@@ -41,7 +41,7 @@ const SAlert = styled.div`
   display: ${(props: Props) => props.theme.alert.display};
   font-family: ${(props: Props) => props.theme.typography.fontFamily};
   font-size: ${(props: Props) => props.theme.alert.fontSize};
-  // padding: ${(props: Props) => props.theme.alert.padding};
+  padding: ${(props: Props) => props.theme.alert.padding};
   font-weight: ${(props: Props) =>
     props.lightMode
       ? props.theme.alert.lightFontWeight
