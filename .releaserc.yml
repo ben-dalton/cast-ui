@@ -6,6 +6,8 @@
       { name: 'beta', prerelease: true },
       { name: 'alpha', prerelease: true },
     ],
+  'dry-run': true,
   'ci': false,
 }
 # 'dry-run': true,
+# 'ci': false,
