@@ -20,7 +20,8 @@
     "pre-commit": "npm run lint:fix && npm run prettier",
     "deploy-storybook": "storybook-to-ghpages --ci",
     "build-and-publish": "npm run build && npm publish",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "commit": "cz"
   },
   "files": [
     "lib-umd/*",
