@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/ben-dalton/cast-ui/compare/v2.0.3...v3.0.0) (2020-09-04)
+
+
+### Features
+
+* **sampletest:** sampleTest ([d878c90](https://github.com/ben-dalton/cast-ui/commit/d878c90018bd24d54e384ebc294e8224f8728b7a))
+
+
+### BREAKING CHANGES
+
+* **sampletest:** New Breaking Change
+
 ## [2.0.3](https://github.com/ben-dalton/cast-ui/compare/v2.0.2...v2.0.3) (2020-09-04)
 
 
