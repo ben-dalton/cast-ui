@@ -54,7 +54,7 @@ The size options, accepted by **btnSize** attribute include
 - md - medium (default)
 - lg - large
 
-#### Active State
+#### Active/Focus State
 The Button will appear pressed, with a darker background and darker border, when active.
 
 The active state can also be triggered with the **selected** prop by setting it to **true**.

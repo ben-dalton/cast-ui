@@ -20,7 +20,8 @@
     "pre-commit": "npm run lint:fix && npm run prettier",
     "deploy-storybook": "storybook-to-ghpages --ci",
     "build-and-publish": "npm run build && npm publish",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "commit": "cz"
   },
   "files": [
     "lib-umd/*",
@@ -86,6 +87,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.4",
     "clean-webpack-plugin": "^2.0.1",
+    "cz-conventional-changelog": "3.3.0",
     "html-webpack-plugin": "^3.2.0",
     "husky": "^1.3.1",
     "json-loader": "^0.5.7",
@@ -126,5 +128,10 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.14",
     "webpack-merge": "^4.1.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
