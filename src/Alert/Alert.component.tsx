@@ -46,7 +46,7 @@ const SAlert = styled.div`
     props.lightMode
       ? props.theme.alert.lightFontWeight
       : props.theme.alert.fontWeight};
-  // line-height: ${(props: Props) => props.theme.alert.lineHeight};
+  line-height: ${(props: Props) => props.theme.alert.lineHeight};
 `;
 
 export const Alert: React.FunctionComponent<Props> = ({
