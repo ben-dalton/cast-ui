@@ -1,49 +1,30 @@
-## [3.0.3](https://github.com/ben-dalton/cast-ui/compare/v3.0.2...v3.0.3) (2020-10-08)
-
-
-### Bug Fixes
-
-* **alert:** removes line-height ([#4](https://github.com/ben-dalton/cast-ui/issues/4)) ([e3b1220](https://github.com/ben-dalton/cast-ui/commit/e3b1220fea31191d7b929dc6755b251a7f486873))
-
-## [3.0.3-beta.1](https://github.com/ben-dalton/cast-ui/compare/v3.0.2...v3.0.3-beta.1) (2020-10-08)
-
-
-### Bug Fixes
-
-* **alert:** removes line-height ([#4](https://github.com/ben-dalton/cast-ui/issues/4)) ([e3b1220](https://github.com/ben-dalton/cast-ui/commit/e3b1220fea31191d7b929dc6755b251a7f486873))
-
 ## [3.0.2](https://github.com/ben-dalton/cast-ui/compare/v3.0.1...v3.0.2) (2020-09-11)
 
-
 ### Bug Fixes
 
-* **alert:** add line-height to Alert ([#3](https://github.com/ben-dalton/cast-ui/issues/3)) ([63e00b6](https://github.com/ben-dalton/cast-ui/commit/63e00b6331cbf8dd1415ad7902d677288c171f94))
+- **alert:** add line-height to Alert ([#3](https://github.com/ben-dalton/cast-ui/issues/3)) ([63e00b6](https://github.com/ben-dalton/cast-ui/commit/63e00b6331cbf8dd1415ad7902d677288c171f94))
 
 ## [3.0.1](https://github.com/ben-dalton/cast-ui/compare/v3.0.0...v3.0.1) (2020-09-11)
 
-
 ### Bug Fixes
 
-* **alert:** removing line-height from thing ([e063fea](https://github.com/ben-dalton/cast-ui/commit/e063feac0329e601f1f3adbba1cdab2c6bc10cb2))
+- **alert:** removing line-height from thing ([e063fea](https://github.com/ben-dalton/cast-ui/commit/e063feac0329e601f1f3adbba1cdab2c6bc10cb2))
 
 # [3.0.0](https://github.com/ben-dalton/cast-ui/compare/v2.0.3...v3.0.0) (2020-09-04)
 
-
 ### Features
 
-* **sampletest:** sampleTest ([d878c90](https://github.com/ben-dalton/cast-ui/commit/d878c90018bd24d54e384ebc294e8224f8728b7a))
-
+- **sampletest:** sampleTest ([d878c90](https://github.com/ben-dalton/cast-ui/commit/d878c90018bd24d54e384ebc294e8224f8728b7a))
 
 ### BREAKING CHANGES
 
-* **sampletest:** New Breaking Change
+- **sampletest:** New Breaking Change
 
 ## [2.0.3](https://github.com/ben-dalton/cast-ui/compare/v2.0.2...v2.0.3) (2020-09-04)
 
-
 ### Bug Fixes
 
-* **changelog:** changelog ([921ede2](https://github.com/ben-dalton/cast-ui/commit/921ede298ca5ed2fdff3899c56c00330ce149136))
+- **changelog:** changelog ([921ede2](https://github.com/ben-dalton/cast-ui/commit/921ede298ca5ed2fdff3899c56c00330ce149136))
 
 # Changelog
 
