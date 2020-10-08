@@ -20,7 +20,6 @@ if (
       '@semantic-release/changelog',
       {
         changelogFile: 'CHANGELOG.md',
-        changelogTitle: 'Changelog',
       },
     ],
     [
