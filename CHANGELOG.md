@@ -1,3 +1,10 @@
+## [3.0.6](https://github.com/ben-dalton/cast-ui/compare/v3.0.5...v3.0.6) (2020-10-08)
+
+
+### Bug Fixes
+
+* **alert:** adds line-height ([#9](https://github.com/ben-dalton/cast-ui/issues/9)) ([d5cdec1](https://github.com/ben-dalton/cast-ui/commit/d5cdec10c262611e98a8443e9873370148710f29))
+
 Changelog
 
 ## [3.0.5](https://github.com/ben-dalton/cast-ui/compare/v3.0.4...v3.0.5) (2020-10-08)
