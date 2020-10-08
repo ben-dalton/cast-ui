@@ -1,4 +1,4 @@
-const branch = process.env.CI_COMMIT_BRANCH || 'beta';
+const branch = process.env.CIRCLE_BRANCH;
 
 const config = {
   ci: false,
