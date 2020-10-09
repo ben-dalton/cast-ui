@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/ben-dalton/cast-ui/compare/v3.0.7...v3.1.0) (2020-10-09)
+
+
+### Features
+
+* **circleci.confg:** include npm run build and npm run lint for every build ([f500350](https://github.com/ben-dalton/cast-ui/commit/f50035012f921907e9270799b6811ef49a509080))
+
 ## [3.0.7](https://github.com/ben-dalton/cast-ui/compare/v3.0.6...v3.0.7) (2020-10-08)
 
 
