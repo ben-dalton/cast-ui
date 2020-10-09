@@ -83,7 +83,6 @@ const SCard = styled.div`
   border-style: solid;
   width: 100%;
   box-sizing: border-box;
-  line-height: 2;
   ${(props: Props) =>
     highlighBorderRules(props.highlightBorder, props.cardStyle, props.theme)}
 
