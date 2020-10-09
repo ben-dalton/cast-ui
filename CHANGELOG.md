@@ -1,3 +1,10 @@
+## [3.1.3](https://github.com/ben-dalton/cast-ui/compare/v3.1.2...v3.1.3) (2020-10-09)
+
+
+### Bug Fixes
+
+* **card:** undo test code ([e051067](https://github.com/ben-dalton/cast-ui/commit/e05106748f97d182e42e84e1d62e5215a806ea0c))
+
 ## [3.1.2](https://github.com/ben-dalton/cast-ui/compare/v3.1.1...v3.1.2) (2020-10-09)
 
 
