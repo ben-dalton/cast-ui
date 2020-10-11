@@ -1,3 +1,11 @@
+## [3.1.4](https://github.com/ben-dalton/cast-ui/compare/v3.1.3...v3.1.4) (2020-10-11)
+
+
+### Bug Fixes
+
+* **card:** ensure no change ([ad630a8](https://github.com/ben-dalton/cast-ui/commit/ad630a8780b8076e6978a16fd5987bafcaea25ee))
+* **changelog:** rebase changelog ([5926a17](https://github.com/ben-dalton/cast-ui/commit/5926a17c2fa57e4591365d5fa966c514eef59e52))
+
 ## 1.5.21 (2020-06-02)
 
 - [715](https://github.com/technekes/cast-ui/pull/715): Fix Modal dialog header styles - [@andrey-liventsev-ontarget](https://github.com/andrey-liventsev-ontarget)
