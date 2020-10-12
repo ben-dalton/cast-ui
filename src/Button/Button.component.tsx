@@ -70,6 +70,7 @@ export class Button extends React.Component<Props, any> {
   };
   render() {
     const { theme, onClick = noop, disabled, children, ...props } = this.props;
+
     return (
       <ThemeProvider theme={(outerTheme: any) => outerTheme || theme}>
         <SButton
