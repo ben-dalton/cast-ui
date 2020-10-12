@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/ben-dalton/cast-ui/compare/v3.2.0...v3.2.1) (2020-10-12)
+
+
+### Bug Fixes
+
+* **button:** fix btn ([#15](https://github.com/ben-dalton/cast-ui/issues/15)) ([d2c15eb](https://github.com/ben-dalton/cast-ui/commit/d2c15eb68903230013c94e2da5e2ebfb959f3652))
+
 # [3.2.0](https://github.com/ben-dalton/cast-ui/compare/v3.1.4...v3.2.0) (2020-10-12)
 
 
