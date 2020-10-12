@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/ben-dalton/cast-ui/compare/v3.1.4...v3.2.0) (2020-10-12)
+
+
+### Features
+
+* **button:** refix btn ([fb77271](https://github.com/ben-dalton/cast-ui/commit/fb77271b7ce4c1cb3925da368042aee7277937df))
+
 ## [3.1.4](https://github.com/ben-dalton/cast-ui/compare/v3.1.3...v3.1.4) (2020-10-11)
 
 
