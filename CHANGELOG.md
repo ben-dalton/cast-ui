@@ -1,3 +1,11 @@
+## [3.2.2](https://github.com/ben-dalton/cast-ui/compare/v3.2.1...v3.2.2) (2020-10-26)
+
+
+### Bug Fixes
+
+* **alert:** remove line height from Alert ([#16](https://github.com/ben-dalton/cast-ui/issues/16)) ([0284796](https://github.com/ben-dalton/cast-ui/commit/0284796d2228d3697a40e247fc529100b5615dac))
+* **card:** change display of Card to flex ([#18](https://github.com/ben-dalton/cast-ui/issues/18)) ([76c02a5](https://github.com/ben-dalton/cast-ui/commit/76c02a56dc2c69941b2bf059b5620efa8f2b0595))
+
 ## [3.2.1](https://github.com/ben-dalton/cast-ui/compare/v3.2.0...v3.2.1) (2020-10-12)
 
 ### Bug Fixes
