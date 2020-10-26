@@ -1,22 +1,3 @@
-## [3.2.1](https://github.com/ben-dalton/cast-ui/compare/v3.2.0...v3.2.1) (2020-10-12)
-
-### Bug Fixes
-
-- **button:** fix btn ([#15](https://github.com/ben-dalton/cast-ui/issues/15)) ([d2c15eb](https://github.com/ben-dalton/cast-ui/commit/d2c15eb68903230013c94e2da5e2ebfb959f3652))
-
-# [3.2.0](https://github.com/ben-dalton/cast-ui/compare/v3.1.4...v3.2.0) (2020-10-12)
-
-### Features
-
-- **button:** refix btn ([fb77271](https://github.com/ben-dalton/cast-ui/commit/fb77271b7ce4c1cb3925da368042aee7277937df))
-
-## [3.1.4](https://github.com/ben-dalton/cast-ui/compare/v3.1.3...v3.1.4) (2020-10-11)
-
-### Bug Fixes
-
-- **card:** ensure no change ([ad630a8](https://github.com/ben-dalton/cast-ui/commit/ad630a8780b8076e6978a16fd5987bafcaea25ee))
-- **changelog:** rebase changelog ([5926a17](https://github.com/ben-dalton/cast-ui/commit/5926a17c2fa57e4591365d5fa966c514eef59e52))
-
 ## 1.6.00 (2020-10-01)
 
 - [740](https://github.com/technekes/cast-ui/pull/740): Increase badge side padding on all themes - [@hamholla](https://github.com/hamholla)
