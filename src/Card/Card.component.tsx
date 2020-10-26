@@ -87,7 +87,7 @@ const SCard = styled.div`
   ${(props: Props) =>
     highlighBorderRules(props.highlightBorder, props.cardStyle, props.theme)}
 
-  display: inline-block;
+  display: flex;
 `;
 
 export const Card: React.FunctionComponent<Props> = ({
