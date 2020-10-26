@@ -31,6 +31,12 @@ jobs:
           name: install
           command: npm install
       - run:
+          name: Build
+          command: npm run build
+      - run:
+          name: Lint
+          command: npm run lint
+      - run:
           name: release
           command: npm run semantic-release || true
       - save_cache:

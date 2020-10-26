@@ -1,44 +1,28 @@
-Changelog
-
-## [3.0.5](https://github.com/ben-dalton/cast-ui/compare/v3.0.4...v3.0.5) (2020-10-08)
+## [3.2.1](https://github.com/ben-dalton/cast-ui/compare/v3.2.0...v3.2.1) (2020-10-12)
 
 ### Bug Fixes
 
-- **alert:** removes line-height ([#8](https://github.com/ben-dalton/cast-ui/issues/8)) ([5836a3a](https://github.com/ben-dalton/cast-ui/commit/5836a3a3d7b1878731efa8a736d831cd5f749922))
+- **button:** fix btn ([#15](https://github.com/ben-dalton/cast-ui/issues/15)) ([d2c15eb](https://github.com/ben-dalton/cast-ui/commit/d2c15eb68903230013c94e2da5e2ebfb959f3652))
 
-## [3.0.4](https://github.com/ben-dalton/cast-ui/compare/v3.0.3...v3.0.4) (2020-10-08)
-
-### Bug Fixes
-
-- **alert:** adds line-height ([#6](https://github.com/ben-dalton/cast-ui/issues/6)) ([e16af0a](https://github.com/ben-dalton/cast-ui/commit/e16af0aedefb4b47f238d4f6736adaf63363cd9d))
-
-## [3.0.2](https://github.com/ben-dalton/cast-ui/compare/v3.0.1...v3.0.2) (2020-09-11)
-
-### Bug Fixes
-
-- **alert:** add line-height to Alert ([#3](https://github.com/ben-dalton/cast-ui/issues/3)) ([63e00b6](https://github.com/ben-dalton/cast-ui/commit/63e00b6331cbf8dd1415ad7902d677288c171f94))
-
-## [3.0.1](https://github.com/ben-dalton/cast-ui/compare/v3.0.0...v3.0.1) (2020-09-11)
-
-### Bug Fixes
-
-- **alert:** removing line-height from thing ([e063fea](https://github.com/ben-dalton/cast-ui/commit/e063feac0329e601f1f3adbba1cdab2c6bc10cb2))
-
-# [3.0.0](https://github.com/ben-dalton/cast-ui/compare/v2.0.3...v3.0.0) (2020-09-04)
+# [3.2.0](https://github.com/ben-dalton/cast-ui/compare/v3.1.4...v3.2.0) (2020-10-12)
 
 ### Features
 
-- **sampletest:** sampleTest ([d878c90](https://github.com/ben-dalton/cast-ui/commit/d878c90018bd24d54e384ebc294e8224f8728b7a))
+- **button:** refix btn ([fb77271](https://github.com/ben-dalton/cast-ui/commit/fb77271b7ce4c1cb3925da368042aee7277937df))
 
-### BREAKING CHANGES
-
-- **sampletest:** New Breaking Change
-
-## [2.0.3](https://github.com/ben-dalton/cast-ui/compare/v2.0.2...v2.0.3) (2020-09-04)
+## [3.1.4](https://github.com/ben-dalton/cast-ui/compare/v3.1.3...v3.1.4) (2020-10-11)
 
 ### Bug Fixes
 
-- **changelog:** changelog ([921ede2](https://github.com/ben-dalton/cast-ui/commit/921ede298ca5ed2fdff3899c56c00330ce149136))
+- **card:** ensure no change ([ad630a8](https://github.com/ben-dalton/cast-ui/commit/ad630a8780b8076e6978a16fd5987bafcaea25ee))
+- **changelog:** rebase changelog ([5926a17](https://github.com/ben-dalton/cast-ui/commit/5926a17c2fa57e4591365d5fa966c514eef59e52))
+
+## 1.6.00 (2020-10-01)
+
+- [740](https://github.com/technekes/cast-ui/pull/740): Increase badge side padding on all themes - [@hamholla](https://github.com/hamholla)
+- [739](https://github.com/technekes/cast-ui/pull/739): Add Umber Theme to Cast - [@hamholla](https://github.com/hamholla)
+- [723](https://github.com/technekes/cast-ui/pull/723): Use common Select components on Claims/Competitives forms - [@andrey-liventsev-ontarget](https://github.com/andrey-liventsev-ontarget)
+- [722](https://github.com/technekes/cast-ui/pull/722): Setup input icon and addon text as flex element, Added new Input option 'isClearable', Added new Input option 'highlightFilled', Added new Select option 'highlightFilled'- [@andrey-liventsev-ontarget](https://github.com/andrey-liventsev-ontarget)
 
 ## 1.5.21 (2020-06-02)
 
